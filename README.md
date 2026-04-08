@@ -1,4 +1,4 @@
-# SOC Home Lab (MyDFIR Challenge)
+# SOC Home Lab
 
 ## Architecture Diagram
 Attacker Machine → Target System (Windows/Linux with Sysmon/Audit Logs) → Log Forwarder (Filebeat / Splunk UF) → ELK Stack (Elasticsearch + Logstash + Kibana) → SIEM Dashboard → Alert Detection & Analysis
