@@ -14,9 +14,9 @@ Attacker Machine → Target System (Windows/Linux with Sysmon/Audit Logs) → Lo
 
 ## Sample Logs
 ### Failed Login Attempt (Linux SSH)
-Apr 8, 2026 @ 18:32:46.642 | source.ip: 80.94.92.167 | country: Romania | destination.port: 41254
-Apr 8, 2026 @ 18:32:43.000 | source.ip: 2.57.121.118 | country: Romania | destination.port: 9736
-Apr 8, 2026 @ 18:32:40.408 | source.ip: 118.70.178.158 | country: Vietnam | destination.port: 34270
+Apr 8, 2026 @ 18:32:46.642 | source.ip: 80.94.92.167 | country: Romania | destination.port: 41254.
+Apr 8, 2026 @ 18:32:43.000 | source.ip: 2.57.121.118 | country: Romania | destination.port: 9736.
+Apr 8, 2026 @ 18:32:40.408 | source.ip: 118.70.178.158 | country: Vietnam | destination.port: 34270.
 
 ## Detection Rules
 
